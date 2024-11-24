@@ -4,8 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-  "start": "node --max-old-space-size=1024 index.js"
-
+    "start": "node --max-old-space-size=1024 index.js"
   },
   "keywords": [],
   "author": "",
